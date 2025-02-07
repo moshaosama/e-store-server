@@ -73,7 +73,6 @@ exports.Login = async (req, res) => {
   }
   const Token = await JWT.sign({ id: user?._id }, process.env.SECRET);
 
-  mail(email, user?.userName, `you login by ${email}`);
   res.status(200).json({
     status: "OK",
     Token: Token,

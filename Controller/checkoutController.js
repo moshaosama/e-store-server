@@ -29,7 +29,7 @@ exports.createCheckoutSession = async (req, res, next) => {
       el.data.map((el2) => ({
         price_data: {
           currency: "usd",
-          unit_amount: el2.price * 100, // Amount in cents
+          unit_amount: Math.round(el2.price * 100), // Amount in cents
           product_data: {
             name: el2.name,
             // Add other product data if necessary
@@ -58,14 +58,6 @@ exports.createCheckoutSession = async (req, res, next) => {
       checkOut: checkout_Items,
       Session: session,
     });
-    mail(
-      user?.Email,
-      user?.userName,
-      `
-        you Buy it at ${Date.now()}
-        Products: ${checkout_Items?.cart}
-      `
-    );
     next();
   } catch (error) {
     res.status(500).json({

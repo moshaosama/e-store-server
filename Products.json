@@ -3,161 +3,161 @@
         "type": "Fruits",
         "name": "Mint",
         "price": 30.78,
-        "image": "https://example.com/apple.jpg",
+        "image": "https://fruitboxco.com/cdn/shop/files/IMG-2530_800x.jpg?v=1692726618",
         "stock": 731
     },
     {
         "type": "Fruits",
         "name": "Apple",
         "price": 2.99,
-        "image": "https://example.com/apple.jpg",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSky_pjEerHybeyRnCg0J4ycWFBvV7ou0uYxg&s",
         "stock": 1200
     },
     {
         "type": "Fruits",
         "name": "Banana",
         "price": 1.29,
-        "image": "https://example.com/banana.jpg",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVVRpIxRSTCqrJ0_YVi-g8qvQn0FTjN8zrEQ&s",
         "stock": 900
     },
     {
         "type": "Fruits",
         "name": "Orange",
         "price": 3.49,
-        "image": "https://example.com/orange.jpg",
+        "image": "https://i5.walmartimages.com/seo/Fresh-Navel-Orange-Each_a134f2a1-2bb0-4e5c-a594-f84b63ab5928.22241f295458186b2ba0e4ed7d460d52.jpeg",
         "stock": 1100
     },
     {
         "type": "Fruits",
         "name": "Strawberry",
         "price": 5.99,
-        "image": "https://example.com/strawberry.jpg",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSlX6xeBZQCd5t98yIHUyL6s8mzxb7ESU1OYg&s",
         "stock": 500
     },
     {
         "type": "Fruits",
         "name": "Grapes",
         "price": 4.99,
-        "image": "https://example.com/grapes.jpg",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTsqTTbwiVLZ6Ku4DZxeTFdEz861Nm9tzv_dQ&s",
         "stock": 650
     },
     {
         "type": "Fruits",
         "name": "Pineapple",
         "price": 3.79,
-        "image": "https://example.com/pineapple.jpg",
+        "image": "https://www.aprifel.com/wp-content/uploads/2019/02/ananas.jpg",
         "stock": 300
     },
     {
         "type": "Fruits",
         "name": "Blueberry",
         "price": 6.49,
-        "image": "https://example.com/blueberry.jpg",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHVGo-QNsCo-W79A1lYaLDDpjXZN85qjZvEw&s",
         "stock": 400
     },
     {
         "type": "Fruits",
         "name": "Kiwi",
         "price": 2.49,
-        "image": "https://example.com/kiwi.jpg",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0ldxcNoF34BRrO8zaBM7S4mcjRIXV3VF0gw&s",
         "stock": 700
     },
     {
         "type": "Fruits",
         "name": "Mango",
         "price": 3.89,
-        "image": "https://example.com/mango.jpg",
+        "image": "https://cdn.mafrservices.com/sys-master-root/h63/hb4/35139577577502/33098_main.jpg?im=Resize=480",
         "stock": 800
     },
     {
         "type": "Vegetables",
         "name": "Carrot",
         "price": 1.49,
-        "image": "https://example.com/carrot.jpg",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTeXzdIS7w8iponjPp2uOEgaN1NPFBFrHsg4A&s",
         "stock": 1000
     },
     {
         "type": "Vegetables",
         "name": "Broccoli",
         "price": 2.99,
-        "image": "https://example.com/broccoli.jpg",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2_o1NIiT4-Wi9TR9a-H_AbezP41G0kGht6Q&s",
         "stock": 800
     },
     {
         "type": "Vegetables",
         "name": "Spinach",
         "price": 1.99,
-        "image": "https://example.com/spinach.jpg",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZ8cJbSIzw-SYwNUmjQbzVA1nwM2Waq6vW0g&s",
         "stock": 750
     },
     {
         "type": "Vegetables",
         "name": "Tomato",
         "price": 2.49,
-        "image": "https://example.com/tomato.jpg",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFtKoqHMZQ0Df2Bb97sjWKHA7mTmzKPDZ-3Q&s",
         "stock": 1200
     },
     {
         "type": "Vegetables",
         "name": "Cucumber",
         "price": 1.29,
-        "image": "https://example.com/cucumber.jpg",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTlZhnkgqIZBluqIBsejzhkTenOiEjs7cBTEw&s",
         "stock": 950
     },
     {
         "type": "Vegetables",
         "name": "Pepper",
         "price": 2.79,
-        "image": "https://example.com/pepper.jpg",
+        "image": "https://i5.walmartimages.com/seo/Fresh-Red-Bell-Pepper-1-Each_7be94a8e-9a5d-4f87-842f-5fe4084138ba.c95d36e140f5e0d492ca632b42e4543c.jpeg",
         "stock": 600
     },
     {
         "type": "Vegetables",
         "name": "Lettuce",
         "price": 1.59,
-        "image": "https://example.com/lettuce.jpg",
+        "image": "https://cdn.britannica.com/77/170677-050-F7333D51/lettuce.jpg",
         "stock": 1100
     },
     {
         "type": "Vegetables",
         "name": "Onion",
         "price": 1.99,
-        "image": "https://example.com/onion.jpg",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLuen00Dmnyst6L8teLCJRJqvJilKp1gaetw&s",
         "stock": 1300
     },
     {
         "type": "Vegetables",
         "name": "Garlic",
         "price": 3.19,
-        "image": "https://example.com/garlic.jpg",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRHo_ykOzWkhZjj0WH92weQKsQK8pclcS1vig&s",
         "stock": 500
     },
     {
         "type": "Vegetables",
         "name": "Potato",
         "price": 0.99,
-        "image": "https://example.com/potato.jpg",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTeOk0wkr59TaAXBcjnPoyBYtbQ8u-zsr23Dw&s",
         "stock": 1500
     },
     {
         "type": "Vegetables",
         "name": "Zucchini",
         "price": 2.29,
-        "image": "https://example.com/zucchini.jpg",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPzaZpfbEFeuexVxsW8wOxYDtWVA3o_Q5Idg&s",
         "stock": 400
     },
     {
         "type": "Vegetables",
         "name": "Sweet Corn",
         "price": 1.89,
-        "image": "https://example.com/sweetcorn.jpg",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCfKaaCMhXjLO1mDC_B8U5g4kozl9zSj--pw&s",
         "stock": 700
     },
     {
         "type": "Vegetables",
         "name": "Beetroot",
         "price": 2.49,
-        "image": "https://example.com/beetroot.jpg",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGovSSyZ8lkIDGgEwSPt9se60IS_hZnxrNvw&s",
         "stock": 300
     },
     {
